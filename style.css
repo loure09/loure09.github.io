@@ -1,21 +1,8 @@
-.majHeader {
-    text-align: center;
-}
-
-.wild {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.quad {
-    font-family: Geneva;
-    background-color: white;
-}
-
-.ritt {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(249, 245, 213);
+.general {
+    justify-content: baseline;
+    background-color: rgb(68, 255, 0);
 }
 
 .button {
-    background-color: pink;
+    background-color: rgb(255, 98, 0);
 }
